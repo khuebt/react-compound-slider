@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/khuebt/react-compound-slider"
+    "url": "https://github.com/khuebt/react-compound-slider.git"
   },
   "main": "./index.js",
   "author": "Steven Hall",
@@ -105,5 +105,13 @@
     ],
     "sourceMap": false,
     "instrument": false
+  },
+  "bugs": {
+    "url": "https://github.com/khuebt/react-compound-slider/issues"
+  },
+  "homepage": "https://github.com/khuebt/react-compound-slider#readme",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
   }
 }
