@@ -1,25 +1,25 @@
 <div style="text-align:center;">
-  <a href="https://sghall.github.io/react-compound-slider" target="\_parent">
+  <a href="https://sghall.github.io/react-uxcustom-slider" target="\_parent">
   <img src="https://user-images.githubusercontent.com/4615775/51296069-8fa30780-19d7-11e9-9399-ace98ee439f0.png"/></a>
 </div>
 
-## React Compound Slider
+## React Uxcustom Slider
 
-Welcome to the future. React Compound Slider is a tiny (4.3kb) slider component with no opinion about markup or styles.
+Welcome to the future. React Uxcustom Slider is a tiny (4.3kb) slider component with no opinion about markup or styles.
 
-### [Documentation and Examples](https://sghall.github.io/react-compound-slider/#/slider-demos/horizontal)
+### [Documentation and Examples](https://sghall.github.io/react-uxcustom-slider/#/slider-demos/horizontal)
 
-[![Build Status](https://travis-ci.org/sghall/react-compound-slider.svg?branch=master)](https://travis-ci.org/sghall/react-compound-slider)
-[![Coverage Status](https://coveralls.io/repos/github/sghall/react-compound-slider/badge.svg?branch=master)](https://coveralls.io/github/sghall/react-compound-slider?branch=master)
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/sghall/react-compound-slider/blob/master/LICENSE)
-[![npm downloads](https://img.shields.io/npm/dm/react-compound-slider.svg)](https://www.npmjs.com/package/react-compound-slider)
-![gzip size](http://img.badgesize.io/https://npmcdn.com/react-compound-slider/dist/react-compound-slider.min.js?compression=gzip)
-[![npm version](https://img.shields.io/npm/v/react-compound-slider.svg)](https://www.npmjs.com/package/react-compound-slider)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/sghall/react-compound-slider.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/sghall/react-compound-slider/context:javascript)
+[![Build Status](https://travis-ci.org/sghall/react-uxcustom-slider.svg?branch=master)](https://travis-ci.org/sghall/react-uxcustom-slider)
+[![Coverage Status](https://coveralls.io/repos/github/sghall/react-uxcustom-slider/badge.svg?branch=master)](https://coveralls.io/github/sghall/react-uxcustom-slider?branch=master)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/sghall/react-uxcustom-slider/blob/master/LICENSE)
+[![npm downloads](https://img.shields.io/npm/dm/react-uxcustom-slider.svg)](https://www.npmjs.com/package/react-uxcustom-slider)
+![gzip size](http://img.badgesize.io/https://npmcdn.com/react-uxcustom-slider/dist/react-uxcustom-slider.min.js?compression=gzip)
+[![npm version](https://img.shields.io/npm/v/react-uxcustom-slider.svg)](https://www.npmjs.com/package/react-uxcustom-slider)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/sghall/react-uxcustom-slider.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/sghall/react-uxcustom-slider/context:javascript)
 
 <div style="text-align:center;">
-  <a href="https://sghall.github.io/react-compound-slider" target="\_parent">
-  <img src="https://user-images.githubusercontent.com/4615775/46690444-2aa96b80-cbb7-11e8-8cdd-d1af59df59fe.png" alt="React Compound Slider" style="width:450px;"/></a>
+  <a href="https://sghall.github.io/react-uxcustom-slider" target="\_parent">
+  <img src="https://user-images.githubusercontent.com/4615775/46690444-2aa96b80-cbb7-11e8-8cdd-d1af59df59fe.png" alt="React Uxcustom Slider" style="width:450px;"/></a>
 </div>
 
 ### Motivation
@@ -43,7 +43,7 @@ This library aims to be a stable platform for creating slider components with a 
 - Interaction modes (Allow crossing, Prevent crossing, Pushable mode, Create your own mode)
 - Works as a controlled component
 
-### [Documentation and Examples](https://sghall.github.io/react-compound-slider/#/slider-demos/horizontal)
+### [Documentation and Examples](https://sghall.github.io/react-uxcustom-slider/#/slider-demos/horizontal)
 
 ### More Examples on CodeSandbox
 
@@ -57,29 +57,29 @@ This library aims to be a stable platform for creating slider components with a 
 * [Custom Feet-Inches Ticks on CodeSandbox (Typescript)](https://codesandbox.io/s/5262w7r9yx)
 * [Custom Feet-Inches Ticks - Vertical on CodeSandbox (Typescript)](https://codesandbox.io/s/18lkz04y8j)
 * [Material Design Example on CodeSandbox](https://codesandbox.io/s/k91omlr1wo) by [@RafeSacks](https://github.com/RafeSacks) 
-* [Slider with Bar Chart on CodeSandbox](https://codesandbox.io/s/rangeslider-with-histogram-voos8) by [@magician11](https://github.com/magician11) See [#85](https://github.com/sghall/react-compound-slider/issues/85).
+* [Slider with Bar Chart on CodeSandbox](https://codesandbox.io/s/rangeslider-with-histogram-voos8) by [@magician11](https://github.com/magician11) See [#85](https://github.com/sghall/react-uxcustom-slider/issues/85).
 
 # Installation
 
-React Compound Slider is available as an [npm package](https://www.npmjs.org/package/react-compound-slider).
+React Uxcustom Slider is available as an [npm package](https://www.npmjs.org/package/react-uxcustom-slider).
 
 To install and save in your `package.json` dependencies, run:
 
 ```
 // React 16.3 or greater
-npm install react-compound-slider
+npm install react-uxcustom-slider
 
 // React 15.0 -> 16.2
-npm install react-compound-slider@0.16.3
+npm install react-uxcustom-slider@0.16.3
 ```
 
 ## Documentation
  
 The documentation is divided into several sections:
 
-* [Live Demos](https://sghall.github.io/react-compound-slider/#/slider-demos/horizontal)
-* [Tutorial](https://sghall.github.io/react-compound-slider/#/getting-started/tutorial)
-* [Documentation](https://sghall.github.io/react-compound-slider/#/component-api/slider)
+* [Live Demos](https://sghall.github.io/react-uxcustom-slider/#/slider-demos/horizontal)
+* [Tutorial](https://sghall.github.io/react-uxcustom-slider/#/getting-started/tutorial)
+* [Documentation](https://sghall.github.io/react-uxcustom-slider/#/component-api/slider)
 
 ### Example Usage
 
@@ -87,18 +87,18 @@ You have full control of everything that is rendered. Just render the `Slider` c
 
 You can use these components from the demos to jumpstart your slider:
 
-[Starter Components - Horizontal](https://github.com/sghall/react-compound-slider/blob/master/docs/src/pages/slider-demos/horizontal/components.js)
+[Starter Components - Horizontal](https://github.com/sghall/react-uxcustom-slider/blob/master/docs/src/pages/slider-demos/horizontal/components.js)
 
-[Starter Components - Vertical](https://github.com/sghall/react-compound-slider/blob/master/docs/src/pages/slider-demos/vertical/components.js)
+[Starter Components - Vertical](https://github.com/sghall/react-uxcustom-slider/blob/master/docs/src/pages/slider-demos/vertical/components.js)
 
-[Starter Components - Material UI](https://github.com/sghall/react-compound-slider/blob/master/docs/src/pages/slider-demos/material-ui/components.js)
+[Starter Components - Material UI](https://github.com/sghall/react-uxcustom-slider/blob/master/docs/src/pages/slider-demos/material-ui/components.js)
 
-[Starter Components - With Tooltips](https://github.com/sghall/react-compound-slider/blob/master/docs/src/pages/slider-demos/tooltips/components.js)
+[Starter Components - With Tooltips](https://github.com/sghall/react-uxcustom-slider/blob/master/docs/src/pages/slider-demos/tooltips/components.js)
 
-[Basic Tooltip CSS](https://github.com/sghall/react-compound-slider/blob/master/docs/src/pages/slider-demos/tooltips/tooltip.css) (CSS from [this demo](https://www.w3schools.com/w3css/w3css_tooltips.asp))
+[Basic Tooltip CSS](https://github.com/sghall/react-uxcustom-slider/blob/master/docs/src/pages/slider-demos/tooltips/tooltip.css) (CSS from [this demo](https://www.w3schools.com/w3css/w3css_tooltips.asp))
 
 ```jsx
-import { Slider, Handles, Tracks } from 'react-compound-slider'
+import { Slider, Handles, Tracks } from 'react-uxcustom-slider'
 import { Handle, Track, Tick } from './your-local-slider-components'
 
   <Slider
@@ -132,7 +132,7 @@ import { Handle, Track, Tick } from './your-local-slider-components'
 
 ### Approach
 
-This library takes a [compound component](https://www.youtube.com/watch?v=hEGg-3pIHlE) approach to creating sliders that separates the data/logic from presentation.
+This library takes a [uxcustom component](https://www.youtube.com/watch?v=hEGg-3pIHlE) approach to creating sliders that separates the data/logic from presentation.
 
 If your familiar with Kent Dodd's work on Paypal's [downshift](https://github.com/paypal/downshift) or [react-toggled](https://github.com/kentcdodds/react-toggled) then the pattern should seem familiar.
 The components use the [function as child components pattern](https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9).

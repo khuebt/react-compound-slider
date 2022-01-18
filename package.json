@@ -1,6 +1,6 @@
 {
-  "name": "react-compound-slider-rounding-fix",
-  "version": "2.5.0",
+  "name": "react-uxcustom-slider",
+  "version": "2.7.0",
   "description": "Futuristic react slider component fix rounding - fork from Steven Hall",
   "keywords": [
     "react",
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/khuebt/react-compound-slider.git"
+    "url": "https://github.com/khuebt/react-uxcustom-slider.git"
   },
   "main": "./index.js",
   "author": "Steven Hall",
@@ -107,9 +107,9 @@
     "instrument": false
   },
   "bugs": {
-    "url": "https://github.com/khuebt/react-compound-slider/issues"
+    "url": "https://github.com/khuebt/react-uxcustom-slider/issues"
   },
-  "homepage": "https://github.com/khuebt/react-compound-slider#readme",
+  "homepage": "https://github.com/khuebt/react-uxcustom-slider#readme",
   "directories": {
     "doc": "docs",
     "test": "test"

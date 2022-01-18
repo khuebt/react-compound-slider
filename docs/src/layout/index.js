@@ -53,7 +53,7 @@ class DashboardLayout extends Component {
           })}
           isSidebarOpen={isOpen}
           onToggleSidebar={this.handleToggleOpen}
-          title="React Compound Slider"
+          title="React Uxcustom Slider"
         />
         <Drawer
           anchor="left"
@@ -80,7 +80,7 @@ class DashboardLayout extends Component {
             }}
             message={
               <span id="snackbar-fab-message-id">
-                <b>Note:</b> react-compound-slider does not create the slider
+                <b>Note:</b> react-uxcustom-slider does not create the slider
                 content. The user defines the rail, handle, track and tick
                 content. The demos on this site are provided to help people get
                 started and are used to test changes to the library. While they

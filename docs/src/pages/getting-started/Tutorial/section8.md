@@ -3,7 +3,7 @@ Looks pretty good. Now, can we display it in reverse?
 Not a problem:
 
 ```jsx
-import { Slider, Rail, Handles, Tracks, Ticks } from 'react-compound-slider'
+import { Slider, Rail, Handles, Tracks, Ticks } from 'react-uxcustom-slider'
 
 ...
   <Slider

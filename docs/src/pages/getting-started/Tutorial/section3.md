@@ -9,7 +9,7 @@ The last target will always be value equal to the max and the percentage 100.
 You can use the `left` and `right` props to eliminate the outer tracks as a convenience, but the tracks are just an array that you can manipulate however you want.
 
 ```jsx
-import { Slider, Handles, Tracks }  from 'react-compound-slider'
+import { Slider, Handles, Tracks }  from 'react-uxcustom-slider'
 
 function Track({ source, target, getTrackProps }) {
   return (

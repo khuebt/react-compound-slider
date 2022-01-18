@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Slider, Rail, Handles, Tracks } from 'react-compound-slider'
+import { Slider, Rail, Handles, Tracks } from 'react-uxcustom-slider'
 import ValueViewer from 'docs/src/pages/ValueViewer' // for examples only - displays the table above slider
 import { SliderRail, Handle, Track } from './components' // example render components - source below
 

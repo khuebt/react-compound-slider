@@ -34,7 +34,7 @@ class Topbar extends Component {
           </IconButton>
           <a
             style={{ color: 'inherit' }}
-            href="https://github.com/sghall/react-compound-slider"
+            href="https://github.com/sghall/react-uxcustom-slider"
           >
             <IconButton color="inherit">
               <GitHub />

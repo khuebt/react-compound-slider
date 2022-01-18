@@ -21,7 +21,7 @@ Track Object:
 
 ###### Example Usage:
 ```jsx
-import Slider, { Tracks } from 'react-compound-slider'
+import Slider, { Tracks } from 'react-uxcustom-slider'
 
 <Slider
   ...

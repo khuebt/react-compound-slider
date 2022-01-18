@@ -3,7 +3,7 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import { format } from 'd3-format'
-import { Slider, Rail, Handles, Tracks, Ticks } from 'react-compound-slider'
+import { Slider, Rail, Handles, Tracks, Ticks } from 'react-uxcustom-slider'
 import { withStyles } from '@material-ui/core/styles'
 import ValueViewer from 'docs/src/pages/ValueViewer' // for examples only - displays the table above slider
 import { SliderRail, Handle, Track, Tick } from './components' // example render components - source below

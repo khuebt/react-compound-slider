@@ -11,7 +11,7 @@ Handle Object:
 
 ###### Example Usage:
 ```jsx
-import Slider, { Handles } from 'react-compound-slider'
+import Slider, { Handles } from 'react-uxcustom-slider'
 
 <Slider
   ...

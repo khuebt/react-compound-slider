@@ -67,7 +67,7 @@ module.exports = {
   resolve: {
     alias: {
       docs: path.resolve(__dirname, '../docs'),
-      'react-compound-slider': path.resolve(__dirname, '../src'),
+      'react-uxcustom-slider': path.resolve(__dirname, '../src'),
     },
   },
   plugins: [],

@@ -25,7 +25,7 @@ function Home(props) {
         <Logo />
       </Grid>
       <Grid item xs={12} className={classes.root}>
-        <Typography variant="h5">React Compound Slider</Typography>
+        <Typography variant="h5">React Uxcustom Slider</Typography>
       </Grid>
       <Grid item xs={12} className={classes.root}>
         <Button

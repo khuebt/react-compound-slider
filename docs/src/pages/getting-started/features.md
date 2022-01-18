@@ -1,6 +1,6 @@
 ##### Slider Features
 
-- Compound component design provides maximum customizability ✓
+- Uxcustom component design provides maximum customizability ✓
   - Makes no assumptions about your markup
   - Precise control over user interactions and styling
 

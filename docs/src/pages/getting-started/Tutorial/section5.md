@@ -2,7 +2,7 @@ Nice. Let's say we actually need three handles.
 The tracks should only show on the connections between handles.
 
 ```jsx
-import { Slider, Rail, Handles, Tracks } from 'react-compound-slider'
+import { Slider, Rail, Handles, Tracks } from 'react-uxcustom-slider'
 
 ...
   <Slider

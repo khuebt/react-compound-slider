@@ -2,7 +2,7 @@
 /* eslint react/prop-types: "off", max-lines: "off" */
 import React from 'react'
 import MarkdownElement from 'docs/src/components/MarkdownElement'
-import { Slider, Rail, Handles, Tracks, Ticks } from 'react-compound-slider'
+import { Slider, Rail, Handles, Tracks, Ticks } from 'react-uxcustom-slider'
 
 const sliderStyleWithBorder = {
   position: 'relative',

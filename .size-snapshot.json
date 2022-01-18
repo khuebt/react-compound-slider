@@ -1,10 +1,10 @@
 {
-  "build/dist/react-compound-slider.js": {
+  "build/dist/react-uxcustom-slider.js": {
     "bundled": 78853,
     "minified": 27782,
     "gzipped": 8687
   },
-  "build/dist/react-compound-slider.min.js": {
+  "build/dist/react-uxcustom-slider.min.js": {
     "bundled": 12494,
     "minified": 12472,
     "gzipped": 4297

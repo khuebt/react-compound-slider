@@ -8,13 +8,13 @@ You can do that by passing the slider a rootStyle prop for inline styles or a cl
 In ES6 enviroments you can import the components like this:
 
 ```jsx
-import { Slider, Rail, Handles, Tracks, Ticks } from "react-compound-slider";
+import { Slider, Rail, Handles, Tracks, Ticks } from "react-uxcustom-slider";
 ```
 
 ###### Start with Rendering Just a Rail
 
 ```jsx
-import { Slider } from 'react-compound-slider'
+import { Slider } from 'react-uxcustom-slider'
 
 const sliderStyle = {  // Give the slider some width
   position: 'relative',

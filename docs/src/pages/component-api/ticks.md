@@ -11,7 +11,7 @@ Tick Object:
 
 ###### Example Usage:
 ```jsx
-import Slider, { Ticks } from 'react-compound-slider'
+import Slider, { Ticks } from 'react-uxcustom-slider'
 
 <Slider
   ...
@@ -32,7 +32,7 @@ import Slider, { Ticks } from 'react-compound-slider'
 
 ###### Passing in your own tick values
 ```jsx
-import Slider, { Ticks } from 'react-compound-slider'
+import Slider, { Ticks } from 'react-uxcustom-slider'
 
 <Slider
   ...

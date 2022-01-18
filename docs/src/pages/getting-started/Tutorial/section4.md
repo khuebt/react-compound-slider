@@ -5,7 +5,7 @@ Let's fix that...
 ##### Rail
 
 ```jsx
-import { Slider, Rail, Handles, Tracks } from 'react-compound-slider'
+import { Slider, Rail, Handles, Tracks } from 'react-uxcustom-slider'
 
 ...
   <Slider

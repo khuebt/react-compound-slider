@@ -8,7 +8,7 @@ In your own project you can use whatever style library you want.
 Take a look at the Material-UI examples in this site to see how you might handle styles for your slider components.
 
 ```jsx
-import { Slider, Handles } from 'react-compound-slider'
+import { Slider, Handles } from 'react-uxcustom-slider'
 
 export function Handle({
   handle: { id, value, percent },

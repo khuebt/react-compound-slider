@@ -3,7 +3,7 @@ Let's add some ticks...
 ##### Ticks
 
 ```jsx
-import { Slider, Rail, Handles, Tracks, Ticks } from 'react-compound-slider'
+import { Slider, Rail, Handles, Tracks, Ticks } from 'react-uxcustom-slider'
 
 function Tick({ tick, count }) {
   return (

@@ -30,7 +30,7 @@ export default function AppRouter() {
       history={useRouterHistory(createHashHistory)()}
       render={applyRouterMiddleware(useScroll())}
     >
-      <Route title="React Compound Slider" path="/" component={AppFrame}>
+      <Route title="React Uxcustom Slider" path="/" component={AppFrame}>
         <IndexRoute dockDrawer component={Home} title={null} />
         <Route
           title="Getting Started"

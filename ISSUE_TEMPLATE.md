@@ -4,7 +4,7 @@
 
 ### Versions (for problems):
 
-React-Compound-Slider:
+React-Uxcustom-Slider:
 
 React:
 

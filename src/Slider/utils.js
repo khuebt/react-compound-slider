@@ -1,6 +1,6 @@
 import warning from 'warning'
 
-export const prfx = 'react-compound-slider:'
+export const prfx = 'react-uxcustom-slider:'
 
 export function getSortByVal(reversed) {
   return function sortByVal(a, b) {

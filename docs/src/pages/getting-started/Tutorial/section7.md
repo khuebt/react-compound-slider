@@ -2,7 +2,7 @@ You can specify exactly what the tick values should be as well.
 Pass the values and get back the percentages to place them correctly.
 
 ```jsx
-import { Slider, Rail, Handles, Tracks, Ticks } from 'react-compound-slider'
+import { Slider, Rail, Handles, Tracks, Ticks } from 'react-uxcustom-slider'
 
 ...
   <Slider

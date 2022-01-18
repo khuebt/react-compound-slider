@@ -58,7 +58,7 @@ function createPackageFile() {
       } = packageData
 
       const minimalPackage = {
-        name: 'react-compound-slider',
+        name: 'react-uxcustom-slider',
         author,
         version,
         description,
