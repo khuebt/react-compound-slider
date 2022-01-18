@@ -30,8 +30,9 @@ class DiscreteScale {
       range: [r0, r1],
       step,
     } = this
-    const p = (clamp(x, d0, d1) - d0) / (d1 - d0)
-    const b = step * Math.round((p * (r1 - r0)) / step) + r0
+    const p = (clamp(x, d0, d1) - d0) / (d1 - d0);
+    const valueToRound = p * (r1 - r0) / step;
+    const b = step * Math.round(valueToRound * 100) / 100 + r0;
 
     return clamp(b, r0 < r1 ? r0 : r1, r1 > r0 ? r1 : r0)
   }
